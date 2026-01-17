@@ -12,7 +12,7 @@ Table of contents
 - Future projects
 
 
-# Introduction
+## Introduction
 To begin with, back in July 2025, I wanted to start working on a homelab using a used computer that I bought on Facebook Marketplace. I was planning to add a network add blocker, a self-hosting media softwares, a NAS and other things. 
 
 Computer used: HP Prodesk 600 G3 SFF
@@ -55,7 +55,7 @@ I won't lie, I was actually testing and trying different stuffs without knowing 
 
 Now I will explain my journey about my new homelab that I started working on in January 2026. 
 
-# Hardware
+## Hardware
 Computer used: Lenovo ThinkPad T480
 - CPU: i5 8350u
 - RAM: 16Gb DDR4-2400

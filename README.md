@@ -63,7 +63,7 @@ Computer used: Lenovo ThinkPad T480
 - Additional storage
    - Western Digital Black SN770 2TB on an external enclosure -> To use with my Nextcloud configuration
  
-Now I invite you to go to my next branch for the rest of my journey
+Now I invite you to go to my next repositories for the rest of my journey
 
 
   

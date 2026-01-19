@@ -72,7 +72,6 @@ So for my new server, here are all the stuff that I put:
 - Proxmox Virtual Environment -> Repository [Proxmox VE](https://github.com/eddycak37/Proxmox-VE)
 - Adguard Home -> Repository [AdguardHome](https://github.com/eddycak37/AdguardHome)
 - Tailscale -> Repository [Tailscale](https://github.com/eddycak37/Tailscale) 
-- Home Assistant -> Repository [HomeAssistant](https://github.com/eddycak37/HomeAssistant)
 
 ## Future projects
 - Nextcloud -> Repository [Nextcloud](https://github.com/eddycak37/Nextcloud)

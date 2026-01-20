@@ -77,4 +77,4 @@ So for my new server, here are all the stuff that I put:
 - Nextcloud -> Repository [Nextcloud](https://github.com/eddycak37/Nextcloud)
 - Mealie -> Repository [Mealie](https://github.com/eddycak37/Mealie) 
  
-<h1 align="center"> Now, I invite you to go to my next repositories for the rest of my journey</h1>
+<h1 align="center"> Now, I invite you to follow the links to my repositories for the rest of my journey</h1>

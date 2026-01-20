@@ -4,7 +4,7 @@ In this part of the project, I will be explaining everything in details about my
 ## Table of contents
 - Introduction
 - Hardware
-- Future projects
+- Components
 
 
 ## Introduction
@@ -68,14 +68,13 @@ However, after some time, I came to realize I still wanted a homelab server, but
 
 That's when I thought of using my ThinkPad. At first, I only thought of putting Adguard on it, but it came to me that I needed something like Dropbox or Google Drive. You see, I didn't wanted to pay for a subscription to have more storage, but having your files easily shareable between all your devices was something I really wanted. 
 
+## Components
+
 So for my new server, here are all the stuff that I put:
 - Proxmox Virtual Environment -> Repository [Proxmox VE](https://github.com/eddycak37/Proxmox-VE)
 - Adguard Home -> Repository [AdguardHome](https://github.com/eddycak37/AdguardHome)
-- Tailscale -> Repository [Tailscale](https://github.com/eddycak37/Tailscale) 
-
-## Future projects
+- Tailscale -> Repository [Tailscale](https://github.com/eddycak37/Tailscale)
 - Nextcloud -> Repository [Nextcloud](https://github.com/eddycak37/Nextcloud)
-
-
+- Mealie -> Repository [Mealie](https://github.com/eddycak37/Mealie) 
  
 <h1 align="center"> Now, I invite you to go to my next repositories for the rest of my journey</h1>
